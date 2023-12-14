@@ -1,0 +1,30 @@
+html {
+  font-size: 20px;
+  text-align: center;
+}
+
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+}
+
+h1 {
+  /* font-mamily = google-font */
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 2rem;
+  letter-spacing: 1.2em;
+  text-shadow: 1px 1px 3px gray;
+  border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+#parent p {
+  font-weight: bold;
+}
+
+.first-heading {
+  color: rgb(255, 192, 203);
+}
+
+.second-heading {
+  color: skyblue;
+}
+
